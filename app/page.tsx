@@ -617,7 +617,7 @@ const systemSectionRef = useRef<HTMLDivElement | null>(null);
               </p>
 
               <h2 className="display-heading text-[10vw] leading-[0.85] uppercase mb-10">
-                SIGNAL
+                CONNECT
               </h2>
 
              <p className="uppercase tracking-[0.4em] text-xs font-bold mb-8 opacity-60">
