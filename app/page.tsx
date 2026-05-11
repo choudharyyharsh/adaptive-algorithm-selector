@@ -18,9 +18,9 @@ export default function AdaptiveAlgorithmSelector() {
   });
   const [analyzed, setAnalyzed] = useState(false);
 
-  const configSectionRef = useRef(null);
-  const reportSectionRef = useRef(null);
-const systemSectionRef = useRef(null);
+ const configSectionRef = useRef<HTMLDivElement | null>(null);
+const reportSectionRef = useRef<HTMLDivElement | null>(null);
+const systemSectionRef = useRef<HTMLDivElement | null>(null);
   const algorithmDatabase = [
     {
       name: "TimSort",
