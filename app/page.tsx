@@ -260,7 +260,7 @@ const systemSectionRef = useRef<HTMLDivElement | null>(null);
   </span>
   <br></br>
 
-  <span className="block text-[18vw] md:text-[10rem] ml-30 md:ml-90">
+  <span className="block text-[18vw] md:text-[10rem] ml-30 md:ml-70">
     Selector
   </span>
   <br></br>
